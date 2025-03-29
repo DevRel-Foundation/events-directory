@@ -10,7 +10,7 @@ Details on how to use the resources of the events directory.
 
 * ...
 
-## About the Persona Library
+## About the Events Directory
 
 This repository is maintained with support of the [Resource and Asset Aggregation Working Group](https://github.com/DevRel-Foundation/wg-resource-aggregation) and Developer Relations Foundation.
 
